@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DatProxy</string>
+    <string name="intent_name">com.github.fsteff.DiscoveryProxyService.Restart</string>
+    <string name="run_background">run in background</string>
+    <string name="autostart">start automatically</string>
+</resources>
